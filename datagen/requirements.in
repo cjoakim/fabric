@@ -1,0 +1,17 @@
+# This file lists the Python libraries used in the virtual enviroment.
+# See the venv.ps1 and venv.sh scripts in this directory.
+# Chris Joakim, Microsoft
+
+Jinja2
+arrow
+black
+docopt
+faker==24.1.0
+httpx
+kaggle
+pandas
+psutil
+pytest-cov
+pytest==7.3.2
+python-dotenv
+xmlformatter
